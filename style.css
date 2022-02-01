@@ -1,0 +1,17 @@
+.margin{
+    width: 0;
+    height: 0;
+}
+
+body{
+    background-color: rgb(175, 165, 165);
+    
+}
+
+.winner {
+    color:green;
+}
+
+.loser {
+    color: red;
+}
